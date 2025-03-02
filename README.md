@@ -8,6 +8,10 @@ As a group, we decided to use the plotly python library as compared to matplotli
 
 A scatter map displays geographic data points using latitude and longitude coordinates
 
+**Data Used**
+https://github.com/Cocoaman256/Map-Visualisations/blob/main/world_population.csv
+
+
 **Basic Analysis**
 
 The scatter map we have plotted tells us that China and India have the largest population sizes over the years. According to the scale, the countries with the largest populations have red markers while those with the lowest populations have purple markers
@@ -17,6 +21,9 @@ The scatter map we have plotted tells us that China and India have the largest p
 This dataset contains historical unemployment data for states in the United States from 1976 to 2022. It tracks key labor force statistics, including employment, unemployment, and population figures on a monthly basis. Additionally, it provides geographic information (latitude and longitude) to allow spatial analysis.
 We have chosen to display this data using a choropleth visualisation.
 Choropleth maps are maps that use differences in coloring or shading within pre defined areas to indicate the average values of a particular quantity in those areas.
+
+**Data Used**
+Unemployment in America Per US State - Unemployment in America Per US State.csv
 
 **Basic Data Analysis**
 
