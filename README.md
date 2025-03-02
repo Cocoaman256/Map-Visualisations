@@ -24,6 +24,7 @@ We have chosen to display this data using a choropleth visualisation.
 Choropleth maps are maps that use differences in coloring or shading within pre defined areas to indicate the average values of a particular quantity in those areas.
 
 **Data Used**
+
 Unemployment in America Per US State - Unemployment in America Per US State.csv
 
 **Basic Data Analysis**
