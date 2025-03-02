@@ -12,6 +12,10 @@ A scatter map displays geographic data points using latitude and longitude coord
 
 - <a href= "https://github.com/Cocoaman256/Map-Visualisations/blob/main/world_population.csv">Dataset</a>
 
+**Visuals**
+
+![Screenshot 2025-03-02 090714](https://github.com/user-attachments/assets/a4f65367-01ad-4540-a2f7-593ecc8378ad)
+
 
 **Basic Analysis**
 
@@ -26,6 +30,11 @@ Choropleth maps are maps that use differences in coloring or shading within pre 
 **Data Used**
 
 Unemployment in America Per US State - Unemployment in America Per US State.csv
+
+**Visuals**
+
+![Screenshot 2025-03-02 090800](https://github.com/user-attachments/assets/2ffd6415-5f5f-4207-80dc-5892802c0789)
+
 
 **Basic Data Analysis**
 
