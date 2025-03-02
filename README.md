@@ -9,7 +9,8 @@ As a group, we decided to use the plotly python library as compared to matplotli
 A scatter map displays geographic data points using latitude and longitude coordinates
 
 **Data Used**
-https://github.com/Cocoaman256/Map-Visualisations/blob/main/world_population.csv
+
+- <a href= "https://github.com/Cocoaman256/Map-Visualisations/blob/main/world_population.csv">Dataset</a>
 
 
 **Basic Analysis**
